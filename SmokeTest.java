@@ -1,6 +1,8 @@
 public class SmokeTest {
     public void loginTest()
       {
-       System.out.println("Login Test -Team A Change");
+
+       System.out.println("Login Test - final merged version");
+
       }
 }
